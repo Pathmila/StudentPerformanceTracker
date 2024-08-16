@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\PerformanceTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\predictperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\predictperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\predictperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\predictperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\addhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\addhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\viewrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\viewrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\viewrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\viewrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\updatehours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\updatehours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|D:\\c#\\PerformanceTracker\\performancetracker\\updatehours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\updatehours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\addsubjectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addsubjectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\predictperformanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\predictperformanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\addhours.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\addhours.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\viewrecordsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\viewrecordsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|d:\\c#\\performancetracker\\performancetracker\\updatehours.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87EE46E-9620-45CD-A7AF-F95E7A062E89}|PerformanceTracker\\PerformanceTracker.csproj|solutionrelative:performancetracker\\updatehours.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddSubjectForm.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddSubjectForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.cs",
+              "RelativeToolTip": "PerformanceTracker\\AddSubjectForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:41:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredictPerformanceForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\PredictPerformanceForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\PredictPerformanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:22:04.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredictPerformanceForm.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\PredictPerformanceForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.cs",
+              "RelativeToolTip": "PerformanceTracker\\PredictPerformanceForm.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwG4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:54:16.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHours.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddHours.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\AddHours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:56:47.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddHours.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddHours.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.cs",
+              "RelativeToolTip": "PerformanceTracker\\AddHours.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwv1cAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:57:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewRecordsForm.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\ViewRecordsForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.cs",
+              "RelativeToolTip": "PerformanceTracker\\ViewRecordsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:01:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSubjectForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddSubjectForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\AddSubjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:45:42.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Signup.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.cs",
+              "RelativeToolTip": "PerformanceTracker\\Signup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:45:58.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Login.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:32:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewRecordsForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\ViewRecordsForm.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\ViewRecordsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:03:54.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Signup.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:45:52.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Home.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Home.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Home.cs",
+              "RelativeToolTip": "PerformanceTracker\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:22:08.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Signup.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Signup.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Signup.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\Signup.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:07:43.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Login.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.cs",
+              "RelativeToolTip": "PerformanceTracker\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:31:57.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Login.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Login.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:53:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateHours.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\UpdateHours.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.cs [Design]",
+              "RelativeToolTip": "PerformanceTracker\\UpdateHours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:50:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateHours.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\UpdateHours.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.cs",
+              "RelativeToolTip": "PerformanceTracker\\UpdateHours.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:28:02.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddSubjectForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddSubjectForm.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddSubjectForm.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\AddSubjectForm.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:43:47.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\Home.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\Home.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\Home.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:20:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PredictPerformanceForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\PredictPerformanceForm.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\PredictPerformanceForm.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\PredictPerformanceForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:55:14.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddHours.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\AddHours.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\AddHours.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\AddHours.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:09:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewRecordsForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\ViewRecordsForm.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\ViewRecordsForm.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\ViewRecordsForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:01:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateHours.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTracker\\UpdateHours.Designer.cs",
+              "ToolTip": "D:\\c#\\PerformanceTracker\\PerformanceTracker\\UpdateHours.Designer.cs",
+              "RelativeToolTip": "PerformanceTracker\\UpdateHours.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:39:56.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
